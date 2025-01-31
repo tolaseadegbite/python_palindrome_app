@@ -1,0 +1,1 @@
+from palindrome_detector import app
